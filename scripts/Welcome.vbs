@@ -1,0 +1,2 @@
+Set Speak=CreateObject("sapi.spvoice")
+Speak.Speak ("Hello and welcome to Eli's PC! Please note that we can tell wether or not you have permisson to use this PC right now, so if you don't you WILL be reported. Please do not touch anything that looks like code, and Eli has made a few changes to the operating system, so it might not work like expected. Have fun!")
