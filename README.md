@@ -4,5 +4,10 @@ Make sure to read the pinned post in the discussion for more info!
 
 Thank you for visiting, and have a good day!
 
-Check out our YouTube channel: https://www.youtube.com/channel/UCSeRNeR8Nq9zffVffkc3UMw
-Join our Discord server: https://discord.gg/DxbuArGFtH 
+Social Links:
+My Roblox account: https://www.roblox.com/users/2682987485/profile
+Our favorite antivirus: https://www.avast.com/en-us/avast-one#pc (individual)
+Our favorite virtual machine platform: https://www.vmware.com/products/workstation-pro.html
+Our GitHub repository: https://github.com/furure-software/Tech-Now-Database
+Our Reddit community: https://www.reddit.com/r/Future_Software/
+Our Instructables profile: https://www.instructables.com/member/Eli%20Sterken/?cb=1712310248
