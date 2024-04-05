@@ -5,4 +5,4 @@ Make sure to read the pinned post in the discussion for more info!
 Thank you for visiting, and have a good day!
 
 Check out our YouTube channel: https://www.youtube.com/channel/UCSeRNeR8Nq9zffVffkc3UMw
-Join our Discord server: https://discord.gg/qJzyeA3qyq
+Join our Discord server: https://discord.gg/DxbuArGFtH 
