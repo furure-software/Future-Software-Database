@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Test Extention",
+    "version": "1.0",
+  
+    "description": "Will close any tab that has youtube opened.",
+  
+    "icons": {
+      "48": "Icon.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["main.js"]
+      }
+    ]
+  }
+  
