@@ -1,6 +1,4 @@
-Hello and welcome to the Future Software database! This collection of various websites, malware, apps, and more! Feel free to use them, but please do not publish the websites, as that would be copying. 
-Let us know in the discussion if you have any questions or comments!
-Make sure to read the pinned post in the discussion for more info!
+Welcome everyone, to the Future Software Database! This is a place where all open-source code made by Future Software ends up, and we invite you to explore it! Feel free to copy and use this code for your own purposes, and go make something amazing! All contributions are welcome as well! Please note that for security reasons, not all Future Software code is open source.
 
 Thank you for visiting, and have a good day!
 
