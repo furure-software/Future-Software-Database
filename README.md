@@ -5,8 +5,8 @@ Make sure to read the pinned post in the discussion for more info!
 Thank you for visiting, and have a good day!
 
 Social Links:
-My Roblox account: https://www.roblox.com/users/2682987485/profile
-Our favorite antivirus: https://www.avast.com/en-us/avast-one#pc (individual)
-Our favorite virtual machine platform: https://www.vmware.com/products/workstation-pro.html
-Our Reddit community: https://www.reddit.com/r/Future_Software/
-Our Instructables profile: https://www.instructables.com/member/Eli%20Sterken/?cb=1712310248
+YouTube: https://www.youtube.com/channel/UCfoCCtMWPJEhh_Vh6IJ36rg
+Discord: Coming Soon!
+Instructibles: https://www.instructables.com/member/Eli%20Sterken/
+Reddit: https://www.reddit.com/r/Future_Software/
+
