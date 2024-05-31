@@ -3,8 +3,12 @@ Welcome everyone, to the Future Software Database! This is a place where all ope
 Thank you for visiting, and have a good day!
 
 Social Links:
+
 YouTube: https://www.youtube.com/channel/UCfoCCtMWPJEhh_Vh6IJ36rg
+
 Discord: Coming Soon!
+
 Instructibles: https://www.instructables.com/member/Eli%20Sterken/
+
 Reddit: https://www.reddit.com/r/Future_Software/
 
